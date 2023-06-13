@@ -1,0 +1,8 @@
+../cd++/cd++ -mmodel1.ma -otest_model1.out -t00:10:00:000
+../cd++/cd++ -mmodel2.ma -otest_model2.out -t00:10:00:000
+../cd++/cd++ -mmodel3.ma -otest_model3.out -t00:10:00:000
+../cd++/cd++ -mmodel4.ma -otest_model4.out -t00:10:00:000
+../cd++/cd++ -mmodel5.ma -otest_model5.out -t00:10:00:000
+../cd++/cd++ -mmodel6.ma -otest_model6.out -t00:10:00:000
+../cd++/cd++ -mmodel7.ma -otest_model7.out -t00:10:00:000
+
